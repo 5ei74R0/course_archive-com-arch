@@ -1,0 +1,21 @@
+# data
+/**/*.dat
+
+# tex & pdf
+/**/*.aux
+/**/*.dvi
+/**/*.log
+/**/*.pdf
+/**/*.synctex.gz
+/**/*.tex
+
+# else
+/cg
+/**/.simvision
+/**/shapa
+/**/*.py
+/**/*.rb
+/**/*.tar
+
+# env
+/.vscode
